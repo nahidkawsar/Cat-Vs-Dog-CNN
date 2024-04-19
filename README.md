@@ -16,16 +16,11 @@ Make sure you have the following installed:
 * OpenCV (cv2)
 * Matplotlib
 
-### Installation
-Clone this repository:
 
-git clone https://github.com/your_username/dogs-vs-cats-cnn.git
 
 Download the Dogs vs Cats dataset from Kaggle and place it in the appropriate directory.
 Install the required dependencies:
 
-
-pip install -r requirements.txt
 
 ### Usage
 Run the provided Jupyter Notebook dogs_vs_cats_cnn.ipynb to train and evaluate the CNN model.
